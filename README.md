@@ -1,15 +1,4 @@
-Berikut versi parafrase README Anda dengan bahasa yang lebih santai, tapi tetap jelas, serta tata letak yang lebih rapi dan mudah dibaca:
-
----
-
 # Sebelas Maret Statistics - Data Science
-
-## Ringkasan Proyek
-
-**Nama repository**: `sebelas-maret-statistics-data-science`
-Ini adalah kumpulan notebook untuk mengekstrak dan memproses data curah hujan harian dari gambar grafik. Tujuannya adalah membuat pipeline berbasis **computer vision + OCR** untuk mengubah grafik PNG menjadi dataset CSV yang terstruktur.
-
----
 
 ## Daftar Notebook & Penjelasan
 
