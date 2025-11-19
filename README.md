@@ -1,9 +1,5 @@
 # Sebelas Maret Statistics - Data Science
 
-## Daftar Notebook & Penjelasan
-
-### `Timnya Abror_Notebook.ipynb`
-
 * **Tujuan**: Mengekstrak nilai curah hujan harian dari grafik berwarna (biasanya biru) menggunakan kelas `OCRRainfallExtractor`. Notebook ini juga berisi contoh pemrosesan satu file maupun batch untuk folder berisi banyak gambar.
 * **Dataset yang digunakan**: File PNG dengan nama format `Plot_Daily_Rainfall_Total_mm_{YEAR}.png` per stasiun, misalnya:
 
