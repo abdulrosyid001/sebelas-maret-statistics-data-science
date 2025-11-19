@@ -109,5 +109,3 @@ OCRRainfallExtractor(tesseract_path='...')
 ```
 
 atau export `TESSDATA_PREFIX` sesuai lokasi Tesseract.
-
-Kalau mau, saya bisa buatkan juga versi **lebih ringkas untuk GitHub**, yang bisa langsung dipakai sebagai `README.md` tanpa terlalu banyak penjelasan teknis. Apakah mau dicoba saya buatkan?
